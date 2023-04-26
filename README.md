@@ -3,7 +3,7 @@ Description:
 Welcome to my project! This C# recipe app has been created using Visual Studio  Code. Users can and may enter  store the ingredients and steps for recipes. Users can easily manage their recipes using this app which will give properly structured and organized recipe(s). I sincerely hope you enjoy it and eagerly await your thoughts!
 Contribution:
 Any and all contributions are welcome! Here are a few methods for getting started:
-1.	Reporting buys s important, so please do so.
+1.	Reporting iss important, so please do so.
 2.	Code contribution: to contribute as a developer follow for the instructions provided above.
 3.	If you have some great ideas but don’t want to code, file an issue and the upgrades or improvement  you’d want to use!
 Instructions:
